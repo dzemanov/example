@@ -5,7 +5,6 @@ metadata:
   description: dzemanov
   annotations:
     github.com/project-slug: 'dzemanov/example'
-    backstage.io/source-location: url:https://github.com/dzemanov/example
     backstage.io/managed-by-location: url:https://github.com/dzemanov/example
     backstage.io/managed-by-origin-location: url:https://github.com/dzemanov/example
 spec:
