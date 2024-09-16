@@ -2,12 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: example
-  description: dzemanov-org
+  description: dzemanov
   annotations:
-    github.com/project-slug: 'dzemanov-org/example'
-    backstage.io/source-location: url:https://github.com/dzemanov-org/example
-    backstage.io/managed-by-location: url:https://github.com/dzemanov-org/example
-    backstage.io/managed-by-origin-location: url:https://github.com/dzemanov-org/example
+    github.com/project-slug: 'dzemanov/example'
+    backstage.io/source-location: url:https://github.com/dzemanov/example
+    backstage.io/managed-by-location: url:https://github.com/dzemanov/example
+    backstage.io/managed-by-origin-location: url:https://github.com/dzemanov/example
 spec:
   type: website
   lifecycle: production
